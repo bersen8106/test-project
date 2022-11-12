@@ -71,7 +71,7 @@
 <body class="bg-light">
 
 <div class="container">
-    @yield('title')
+    <h1>@yield('title')</h1>
     <main>
         @yield('content')
     </main>
