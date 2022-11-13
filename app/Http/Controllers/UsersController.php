@@ -4,9 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\UserRequest;
 use App\Models\User;
-use Illuminate\Http\Request;
-use PhpParser\Builder;
-use function League\Flysystem\delete;
 
 class UsersController extends Controller
 {
