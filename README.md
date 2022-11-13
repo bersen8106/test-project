@@ -8,7 +8,7 @@
 
 cd /var/www
 
-git clone ... folder
+git clone https://github.com/bersen8106/test-project folder
 
 cd folder
 
